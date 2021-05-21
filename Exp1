@@ -1,0 +1,15 @@
+# calculating the sum and average of three numbers
+a=int(input ('enter a value'))
+b=int(input('enter b value'))
+c=int(input('enter c value'))
+sum=a+b+c
+print (sum)
+average=sum/3
+print(average)
+...
+# output
+enter a value 10
+enter b value 30
+enter c value 20
+60
+20
