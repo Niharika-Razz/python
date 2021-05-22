@@ -1,0 +1,12 @@
+# python program to read age of student and check whether student is eligible for vote or not
+name=raw_input("enter name")
+age=int(raw_input("enter age"))
+If(age>=18):
+           print ("you are eligible for vote")
+Else:
+    print("you are not eligible for vote")
+
+# Output
+enter name niha
+enter age 21
+you are eligible for vote
